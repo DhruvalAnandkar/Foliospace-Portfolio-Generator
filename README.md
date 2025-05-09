@@ -27,7 +27,7 @@ FolioSpace is a MERN stack-based platform designed to simplify the process of cr
 
 ## 📦 How to Run Locally
 
-### 1. Clone this repository
+### Clone this repository
 
 git clone https://github.com/yourusername/foliospace-portfolio-generator.git
 
@@ -39,7 +39,7 @@ npm start
 
 3000
 
-** 🛠 Tech Stack
+## 🛠 Tech Stack
 React.js
 
 Node.js
@@ -50,11 +50,11 @@ MongoDB
 
 Tailwind CSS / Bootstrap (if used)
 
-** 🙌 Contributions
+## 🙌 Contributions
 This project is open to collaboration and suggestions.
 Feel free to fork, star ⭐, or raise an issue!
 
-** 📬 Contact
+## 📬 Contact
 Have feedback or want to collaborate?
 Reach out via LinkedIn or open an issue here on GitHub.
 
