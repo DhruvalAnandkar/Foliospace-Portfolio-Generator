@@ -30,7 +30,7 @@ https://github.com/DhruvalAnandkar/Foliospace-Portfolio-Generator/blob/main/Demo
 
 ### Clone this repository
 
-git clone https://github.com/yourusername/foliospace-portfolio-generator.git
+git clone https://github.com/DhruvalAnandkar/Foliospace-Portfolio-Generator.git
 
 cd foliospace-portfolio-generator
 
