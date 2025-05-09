@@ -1,0 +1,29 @@
+# POST http://localhost:3000/signup
+# Content-Type: application/json
+
+# {
+#     "fullname" :"jayprakash",
+#     "email": "jaypra@gmail.com",
+#     "password": "Jayprakash123"
+
+# }
+# # Accesstoken : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3ZDVlMGVlMDUwZDJiY2MxNzQxMmJkZCIsImlhdCI6MTc0MjA2OTk5OH0.Y9tyXafDq0XoowLjycxweoavFUaaRYkwBrGY8C7e49c" 
+
+
+# # # GET  http://localhost:3000/get-upload-url
+
+
+POST http://localhost:3000/create-blog
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3ZDVlMGVlMDUwZDJiY2MxNzQxMmJkZCIsImlhdCI6MTc0MjA2OTk5OH0.Y9tyXafDq0XoowLjycxweoavFUaaRYkwBrGY8C7e49c
+
+{
+    "title" : "test titlenncr",
+    "banner" : "https.//example.com/image.url",
+    "des" : "This is decrs",
+    "content": {
+        "blocks" : [ 1 , 2]
+    },
+    "tags": ["tags1", "tagcr2"]
+
+}
