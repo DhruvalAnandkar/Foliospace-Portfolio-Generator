@@ -49,7 +49,7 @@ Express.js
 
 MongoDB
 
-Tailwind CSS / Bootstrap (if used)
+Tailwind CSS
 
 ## 🙌 Contributions
 This project is open to collaboration and suggestions.
