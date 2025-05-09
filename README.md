@@ -22,6 +22,7 @@ FolioSpace is a MERN stack-based platform designed to simplify the process of cr
 ---
 
 ## 🎥 Demo Video  
+https://github.com/DhruvalAnandkar/Foliospace-Portfolio-Generator/blob/main/DemoVideo.mp4  => Click on Raw
 
 ---
 
